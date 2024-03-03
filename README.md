@@ -1,5 +1,11 @@
 ### Hi there 👋
 
-My name is Liben Warsame. I'm a recent graduate with the University of Minnesota's Coding Bootcamp where I learned to become a Full-Stack Developer. My skills with coding is HTML, CSS, Javascript, Node, and React. If you have any questions about me, please feel free to email me at libenwarsame@icloud.com.
+I am Liben Warsame, a recent graduate of the University of Minnesota's esteemed Coding Bootcamp, where I honed my craft as a Full-Stack Developer. Proficient in a range of languages and technologies, including HTML, CSS, JavaScript, Node.js, and React, I am poised to contribute effectively to dynamic projects and teams.
+
+Should you wish to learn more about me or discuss potential opportunities, please don't hesitate to reach out via email at libenwarsame@icloud.com. I look forward to connecting with you.
+
+Warm regards,
+
+Liben Warsame
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1eepyghost)](https://github.com/anuraghazra/github-readme-stats)
